@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/act nueva progr.iml" filepath="$PROJECT_DIR$/.idea/act nueva progr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/articulo/articulo.iml" filepath="$PROJECT_DIR$/articulo/articulo.iml" />
+    </modules>
+  </component>
+</project>
