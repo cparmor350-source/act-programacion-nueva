@@ -30,6 +30,16 @@
                 System.out.println("Para adultos? " + juego.paraAdultos());
                 System.out.println("¿Apto para 15 años? " + juego.esApto(15));
                 System.out.println("¿Apto para 16 años? " + juego.esApto(16));
+
+                Cliente c1 = new Cliente("juan", "segura12345", 1, 1990, 101);
+                Cliente c2 = new Cliente("maria", "corta", 2, 2010, null, 102);
+
+
+                System.out.println(c1);
+                System.out.println("-> " + (c1.getArticulo() != null ? c1.getArticulo() : "sin artículo"));
+
+                System.out.println(c2);
+                System.out.println("-> " + (c2.getArticulo() != null ? c2.getArticulo(): "sin artículo"));
             }
         }
 
